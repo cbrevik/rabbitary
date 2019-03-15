@@ -1,0 +1,9 @@
+[package]
+name = "rabbitary"
+version = "0.1.0"
+authors = ["Christian Brevik <christian.brevik@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+http = "0.1"
+percent-encoding = "1.0.1"
